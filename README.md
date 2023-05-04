@@ -35,4 +35,8 @@ Please fill in the sections below after you complete the challenge.
 
 ### What I'm Pleased With
 
+Successful implementation of a breadth-first search, all contained in a thoroughly documented class. Plenty of tests to ensure type safety, out of bounds detection.
+
 ### What I Would Have Done With More Time
+
+Implemented another type of search, such as dijkstra's algorithm in cases where the array is much larger as breadth-first search suffers from performance problems when the search space is large. This is due to it keeping track of each "path" through the problem.
